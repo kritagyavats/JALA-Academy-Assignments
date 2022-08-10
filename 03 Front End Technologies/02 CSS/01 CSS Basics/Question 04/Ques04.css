@@ -1,0 +1,7 @@
+/*Ques 04) Develop a page and set the height:(in pixels and %) and width:(in pixels and %) on elements.*/
+
+div {
+  height: 200px; /*height in pixels*/
+  width: 50%; /* width in %*/
+  background-color: powderblue;
+}
